@@ -1,0 +1,15 @@
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\bin\Debug\net7.0\Projekt2PO.exe
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\bin\Debug\net7.0\Projekt2PO.deps.json
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\bin\Debug\net7.0\Projekt2PO.runtimeconfig.json
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\bin\Debug\net7.0\Projekt2PO.dll
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\bin\Debug\net7.0\Projekt2PO.pdb
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.csproj.AssemblyReference.cache
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.AssemblyInfoInputs.cache
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.AssemblyInfo.cs
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.csproj.CoreCompileInputs.cache
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.dll
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\refint\Projekt2PO.dll
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.pdb
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\Projekt2PO.genruntimeconfig.cache
+D:\PROJEKTY\Vistula University\Programowanie obiektowe\Projekt2PO\obj\Debug\net7.0\ref\Projekt2PO.dll
